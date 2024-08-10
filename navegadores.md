@@ -707,3 +707,51 @@ Escolher a forma correta depende das necessidades específicas da aplicação e 
 
 
 
+
+
+A entidade internacional que gerencia os domínios de internet é a **ICANN** (Internet Corporation for Assigned Names and Numbers).
+
+### ICANN (Internet Corporation for Assigned Names and Numbers)
+
+**Descrição**: 
+A ICANN é uma organização sem fins lucrativos responsável pela coordenação global do sistema de identificadores únicos da Internet, que inclui os nomes de domínio, endereços IP, e os parâmetros de protocolo.
+
+### Principais Responsabilidades:
+
+1. **Gestão de Nomes de Domínio (DNS)**
+   - **Domínios de Nível Superior (TLDs)**: A ICANN coordena a alocação de domínios de nível superior, que incluem domínios genéricos (gTLDs) como .com, .org, .net, e domínios de código de país (ccTLDs) como .br (Brasil), .jp (Japão).
+   - **Novos gTLDs**: A ICANN supervisiona o processo de introdução de novos gTLDs.
+
+2. **Gestão de Endereços IP**
+   - **IPv4 e IPv6**: A ICANN coordena a distribuição dos espaços de endereços IP globalmente.
+
+3. **Protocolo de Identificação e Atribuição**
+   - **Números de Protocolo da Internet**: Coordena a atribuição de números utilizados em protocolos da Internet.
+
+4. **Segurança e Estabilidade da Internet**
+   - **DNSSEC (Domain Name System Security Extensions)**: Implementação de extensões de segurança para garantir a integridade e autenticidade dos dados no sistema DNS.
+
+### Estrutura Organizacional:
+
+- **Board of Directors**: Conselho de Administração da ICANN é composto por representantes de diferentes setores da comunidade da Internet.
+- **Supporting Organizations (SOs)**: Organizações de suporte que ajudam a ICANN a desenvolver políticas relacionadas a nomes de domínio, números e protocolos.
+  - **Generic Names Supporting Organization (GNSO)**: Focada em políticas para gTLDs.
+  - **Country Code Names Supporting Organization (ccNSO)**: Focada em políticas para ccTLDs.
+  - **Address Supporting Organization (ASO)**: Focada em políticas de endereçamento IP.
+
+### Processos de Políticas:
+
+- **Multistakeholder Model**: A ICANN opera em um modelo multissetorial, onde diversas partes interessadas (governos, setor privado, sociedade civil, comunidade técnica) participam no desenvolvimento de políticas.
+- **Consensus-Based Decision Making**: As decisões são baseadas em consenso, garantindo que todas as vozes sejam ouvidas e consideradas.
+
+### Participação Global:
+
+- **Reuniões Públicas**: A ICANN organiza reuniões públicas regulares em diferentes partes do mundo para discutir e desenvolver políticas.
+- **Engajamento Regional**: A ICANN possui escritórios regionais e iniciativas de engajamento para garantir uma participação global equilibrada.
+
+### Importância da ICANN:
+
+A ICANN desempenha um papel crucial na manutenção da estabilidade, segurança e interoperabilidade da Internet. Ao gerenciar a alocação de nomes de domínio e endereços IP, a ICANN garante que a Internet continue a ser uma plataforma global única e universalmente acessível.
+
+
+
