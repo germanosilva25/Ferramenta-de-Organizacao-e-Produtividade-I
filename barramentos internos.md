@@ -1,3 +1,5 @@
+![Exemplo de Imagem](images/cabecalho.png)
+
 Os barramentos internos de dispositivos eletrônicos são vias de comunicação que permitem a transferência de dados e sinais entre os diferentes componentes de um dispositivo. Eles desempenham um papel crucial no funcionamento eficiente e coordenado dos dispositivos, conectando processadores, memória, placas de expansão e outros periféricos internos. Vamos explorar os principais barramentos internos, suas funções e características em detalhes.
 
 ### **1. Barramentos Internos Principais**
