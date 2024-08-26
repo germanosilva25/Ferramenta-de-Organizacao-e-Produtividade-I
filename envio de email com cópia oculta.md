@@ -1,13 +1,13 @@
-Enviar e-mails com cópia oculta (BCC - Blind Carbon Copy) tem várias vantagens. Aqui estão algumas das principais vantagens e explicações sobre cada uma:
+Enviar e-mails com cópia oculta (CCO - Com Cópia Oculta) tem várias vantagens. Aqui estão algumas das principais vantagens e explicações sobre cada uma:
 
 ### 1. **Privacidade dos Destinatários**
 
-- **Descrição**: Quando você usa o campo BCC, os endereços de e-mail dos destinatários não são visíveis para os outros destinatários.
+- **Descrição**: Quando você usa o campo CCO, os endereços de e-mail dos destinatários não são visíveis para os outros destinatários.
 - **Vantagem**: Isso ajuda a proteger a privacidade dos destinatários, evitando a exposição de seus endereços de e-mail para todos os outros na lista. É especialmente importante em e-mails enviados para uma grande lista de contatos.
 
 ### 2. **Prevenção de Respostas em Massa**
 
-- **Descrição**: Usar BCC evita que os destinatários respondam a todos os outros destinatários.
+- **Descrição**: Usar CCO evita que os destinatários respondam a todos os outros destinatários.
 - **Vantagem**: Reduz o risco de receber uma enxurrada de respostas, que podem ocorrer quando todos os destinatários usam "Responder a Todos". Isso ajuda a manter a comunicação mais organizada e evita a sobrecarga de e-mails.
 
 ### 3. **Redução de Spam**
@@ -17,7 +17,7 @@ Enviar e-mails com cópia oculta (BCC - Blind Carbon Copy) tem várias vantagens
 
 ### 4. **Gerenciamento de Listas de Contatos**
 
-- **Descrição**: O BCC é útil quando você deseja enviar uma comunicação a um grupo de pessoas sem revelar os endereços de e-mail uns dos outros.
+- **Descrição**: O CCO é útil quando você deseja enviar uma comunicação a um grupo de pessoas sem revelar os endereços de e-mail uns dos outros.
 - **Vantagem**: Facilita o gerenciamento de listas de contatos e a comunicação em massa sem expor os detalhes pessoais dos destinatários.
 
 ### 5. **Proteção contra Acusações de Spam**
